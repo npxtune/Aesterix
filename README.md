@@ -1,3 +1,3 @@
-# EXPERIMENTAL BRANCH !!!
+# STABLE BRANCH
 
-DO NOT USE FOR SHIPPING
+Can be used for shipping
