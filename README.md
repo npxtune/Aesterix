@@ -18,7 +18,7 @@ An example of Virtual Textures paired with an LOD System. There is only one mode
 
 ## Branches
 
-**main:** Stable branch used if it the game were to be shipped.
+**main:** Stable branch used if the game were to be shipped.
 
 **experimental:** Branch for all sorts of experiments that may not make it into the game.
 
